@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Stefano
 
-Welcome to my GitHub profile! I'm a passionate developer with a diverse skill set, always eager to learn and explore new technologies. Here's a bit more about me and what I do. ([Check my portfolio](#))
+Welcome to my GitHub profile! I'm a passionate developer with a diverse skill set, always eager to learn and explore new technologies. Here's a bit more about me and what I do. ([Check my portfolio](https://snebo.github.io/Portfolio/))
 
 ## 🛠 Skills and Expertise
 
