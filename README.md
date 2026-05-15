@@ -13,7 +13,7 @@ Backend engineer. I build systems that scale.
 ---
 
 ## Featured Work
-**[RememberMe_AI](https://github.com/snebo/Project-personalized_ai-)** — AI chatbot trained on conversations you have with it (ie. think of your diary talking back to you).  
+**[RememberMe_AI](https://github.com/snebo/my-diary-friend)** — AI chatbot trained on conversations you have with it (ie. think of your diary talking back to you).  
 **[AI Speech Recognition](https://github.com/snebo/ExamReady-ASR)** — NVIDIA NeMo transcription API, 96% accuracy  
 **[Shipping Calculator](https://github.com/snebo/shipping-rate-calculator)** — Integrating UPS API to calculate shipping rates  
 **[Zoom SDK Bot](https://github.com/snebo/Zoom-Meeting-Bot)** — C++ SDK integration with Node.js backend  
