@@ -13,7 +13,7 @@ Backend engineer. I build systems that scale.
 ---
 
 ## Featured Work
-
+**[RememberMe_AI](https://github.com/snebo/Project-personalized_ai-)** — AI chatbot that's trained on information and conversations you have with it (ie. think of your diary talking back to you)
 **[AI Speech Recognition](https://github.com/snebo/ExamReady-ASR)** — NVIDIA NeMo transcription API, 96% accuracy  
 **[Zoom SDK Bot](https://github.com/snebo/Zoom-Meeting-Bot)** — C++ SDK integration with Node.js backend  
 **[Chess Engine](https://github.com/snebo/Chess_AI)** — Full implementation with AI opponent  
