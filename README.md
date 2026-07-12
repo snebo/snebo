@@ -1,47 +1,29 @@
-# Stefano Nebo
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=32791F&multiline=true&repeat=false&width=435&height=120&lines=Hello%2C+it's+Stefano+Nebo;Software+Engineer" alt="Typing SVG" />
+</a>
 
-### FullStack Developer | Backend Engineer | Systems & AI Builder
-Building solutions, not software
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=express,flask,mysql,mongodb,nestjs,nodejs,postgres,prisma,py,rabbitmq,rails,redis,angular,css,html,js,nextjs,react,tailwind,cpp,aws,bash,docker,firebase,git,jest,kubernetes,linux,mint,netlify,nginx,postman,supabase,aiscript,ai,blender)](https://skillicons.dev)
 
-[🌐 Portfolio: ](https://stefano-nebo.vercel.app)https://stefano-nebo.vercel.app  
-  
-[💼 LinkedIn: ](https://linkedin.com/in/stefano-nebo)https://linkedin.com/in/stefano-nebo  
+### Studying
+[![Learning](https://skillicons.dev/icons?i=java,kafka,spring,maven,gradle)](https://skillicons.dev)
 
----
+### Connect with me!
+<div>
+    <a href="https://linkedin.com/in/stefano-nebo">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="https://stefano-nebo.vercel.app">
+        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
+    </a>
+</div>
 
-## 🛠️ Technical Toolkit
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/file/d/1zw9rjoBLd7FdkZykjKHvqA0lRrbEOXoJ/view?usp=drive_link" download>Download my resume</a>
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9F8E1&height=120&section=footer" alt="footer"/>
 
-### FrameWorks
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) **|** 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)  
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-### DevOps & Tools
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=langchain&logoColor=white) **|** 
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-005571?style=flat-square) **|** 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) **|** 
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square)
 
 ---
 
