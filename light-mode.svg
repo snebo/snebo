@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
 <style>
 @font-face {
@@ -16,6 +15,7 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
+<g transform="translate(15,10) scale(0.394736842,1.0) translate(-15,-10)">
 <text x="15" y="10" fill="#24292f" class="ascii">
 <tspan x="15" y="10">+++++++++++++---------------------------------+++--------------------------++++++++++++++++++++</tspan>
 <tspan x="15" y="20">+++++++++++++-------------------------++###############+++++---------------++++++++++++++++++++</tspan>
@@ -70,23 +70,25 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="510">#################################################++------------+++++++#########################</tspan>
 <tspan x="15" y="520">#################################################++-------------+++++++++######################</tspan>
 </text>
+</g>
 <text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">snebo</tspan> -———————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 11, Android 16, Linux</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">25 years, 5 months, 29 days</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Snebo Technologies, Inc.</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">CAM (Computer Aided Manufacturing) Operator</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">IDEA 2023.3.2, VSCode 1.96.0</tspan>
-<tspan x="390" y="150" class="cc">. </tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Java, Python, JavaScript, C++</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML, CSS, JSON, LaTeX, YAML</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">English</tspan>
-<tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Distro Hopping, Gaming, Anime</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Overclocking, Undervolting</tspan>
-<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Snebo54@gmail.com</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Snebo54@hotmail.com</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Linkedin.com/in/stefano-nebo</tspan>
+<tspan x="390" y="59" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Windows 11, Android 16, Linux</tspan>
+<tspan x="390" y="88" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .................. </tspan><tspan class="value" id="age_data">25 years, 5 months, 29 days</tspan>
+<tspan x="390" y="116" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Snebo Technologies, Inc.</tspan>
+<tspan x="390" y="145" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">CAM (Computer Aided Manufacturing) Operator</tspan>
+<tspan x="390" y="174" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">IDEA 2023.3.2, VSCode 1.96.0</tspan>
+<tspan x="390" y="203" class="cc">. </tspan>
+<tspan x="390" y="232" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Framework</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Node.js, NestJS, React, Angular</tspan>
+<tspan x="390" y="261" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">TypeScript, Python, C++, Ruby</tspan>
+<tspan x="390" y="289" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">English, Spanish</tspan>
+<tspan x="390" y="318" class="cc">. </tspan>
+<tspan x="390" y="347" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Distro Hopping, Gaming, Anime</tspan>
+<tspan x="390" y="376" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Overclocking, Undervolting</tspan>
+<tspan x="390" y="405">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="434" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Snebo54@gmail.com</tspan>
+<tspan x="390" y="462" class="cc">. </tspan>
+<tspan x="390" y="491" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Snebo54@hotmail.com</tspan>
+<tspan x="390" y="520" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Linkedin.com/in/stefano-nebo</tspan>
 </text>
 </svg>
