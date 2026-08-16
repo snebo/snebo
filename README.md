@@ -1,7 +1,3 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=32791F&multiline=true&repeat=false&width=435&height=120&lines=Hello%2C+it's+Stefano+Nebo;Software+Engineer" alt="Typing SVG" />
-</a>
-
 <a href="https://github.com/snebo/snebo">
   <picture>
     <!-- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/dark_mode.svg"> -->
