@@ -1,17 +1,80 @@
-<a href="https://github.com/snebo/snebo">
-  <picture>
-    <!-- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/dark_mode.svg"> -->
-    <img alt="Stefano Nebo's GitHub Profile README" src="https://raw.githubusercontent.com/snebo/snebo/main/light-mode.svg">
-  </picture>
-</a>
+# Stefano Nebo
 
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=express,flask,mysql,mongodb,nestjs,nodejs,postgres,prisma,py,rabbitmq,rails,redis,angular,css,html,js,nextjs,react,tailwind,cpp,aws,bash,docker,firebase,git,jest,kubernetes,linux,mint,netlify,nginx,postman,supabase,aiscript,ai,blender)](https://skillicons.dev)
+### FullStack Developer | Backend Engineer | Systems & AI Builder
+Building solutions, not software
 
-### Studying
-[![Learning](https://skillicons.dev/icons?i=java,kafka,spring,maven,gradle)](https://skillicons.dev)
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-### Connect with me!
+### FrameWorks
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) **|** 
+
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)  
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+### DevOps & Tools
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=langchain&logoColor=white) **|** 
+
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-005571?style=flat-square) **|** 
+
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) **|** 
+
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square)
+
+
+
+
+---
+
+## Projects
+
+### [My Diary Friend](https://github.com/snebo/my-diary-friend)
+*A personalized AI companion utilizing a full production RAG pipeline for semantic memory retrieval.*
+* **The Stack:** NestJS, LangChain, pgvector, PostgreSQL, Google Gemini
+* **The Core:** Rather than relying on simple message logs, this project processes chat histories into vector embeddings, allowing the AI to organically "remember" context from days or weeks ago. 
+
+### [Headless Zoom Meeting AI Bot](https://github.com/snebo/Zoom-Meeting-Bot)
+*A low-level systems integration designed to capture and stream real-time meeting media.*
+* **The Stack:** Node.js, Linux C++ Meeting SDK, WebSockets, Docker
+* **The Core:** Bypassed expensive third-party wrappers by writing a custom middleware layer that launches headless Linux instances via the native C++ SDK to tap directly into raw audio streams.
+
+### [Automated Recruiter Outreach Pipeline](https://github.com/snebo/Automated-Networking-System)
+*An autonomous B2B pipeline mixing web automated workflows with real-time AI voice orchestration.*
+* **The Stack:** TypeScript, Puppeteer, OpenAI Realtime API, Twilio
+* **The Core:** A completely hands-free automation tool that targets datasets, validates endpoints, and leverages low-latency AI speech models to navigate phone trees and schedule follow-ups.
+
+### [Multi-Carrier Shipping Rate Engine](https://github.com/snebo/shipping-rate-calculator)
+*A resilient backend microservice focused on API normalization and clean architectural patterns.*
+* **The Stack:** NestJS, TypeScript, Redis, Jest
+* **The Core:** Built explicitly using the **Strategy Pattern** so that additional logistics providers can be hot-swapped or added later with zero downtime or core refactoring. Features automated token caching via Redis.
+
+
+### Employer?
+#### Connect with me!
 <div>
     <a href="https://linkedin.com/in/stefano-nebo">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
@@ -20,10 +83,7 @@
         <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
     </a>
 </div>
-
-### Employer?
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1zw9rjoBLd7FdkZykjKHvqA0lRrbEOXoJ/view?usp=drive_link" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9F8E1&height=120&section=footer" alt="footer"/>
-
